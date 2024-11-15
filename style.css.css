@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(skyblue, lightgreen)
+}
+h1{
+    color: darkblue;
+}
+.saba{
+    color:black;
+}
+.luka{
+    color: black;
+}
+#p5{
+    color: black;
+    font-family: "consolas", sans-serif;
+}
+/* #p1{
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    padding: 5px;
+} */
+#p6{
+    color: black;
+}
+#p8{
+    color: black;
+}
+#p9{
+    color: black;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#img1{
+    right: 15px;
+}
+#box1{
+    border: 5px solid;
+    width: 500px;
+    height: 500px;
+    font-size: 15px;
+    background-color: greenyellow;
+}
+#box2{
+    border: 5px solid;
+    width: 1000px;
+    height: 1000px;
+    font-size: 15px;
+    background-color:darkcyan
+}
+#p2{
+    border: 5px solid;
+    width: 330px;
+    height: 330px;
+    font-size: 15px;
+    background-color:lightblue
+}
+#img1 {
+    float: right; 
+    margin-left: 20px;
+    margin-bottom: 20px; 
+    width: 500px;
+}
